@@ -1,5 +1,7 @@
 #include <vector>
 #include "bitmap.h"
+#include <iostream>
+#include <string>
 
 using namespace std;
 
